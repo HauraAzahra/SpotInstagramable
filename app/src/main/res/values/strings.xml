@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Spot Instagramable</string>
+    <string name="spot_detailname">Detail Nama Spot</string>
+    <string name="spot_detaildescription">Detail Deskripsi Spot</string>
+    <string name="about">Tentang</string>
+    <string name="myname">Muhammad Revolus Abdul Majid</string>
+    <string name="myemail">revomajid@gmail.com</string>
+    <string name="spot_nama">Nama Spot</string>
+    <string name="spot_deskripsi">Deskripsi Spot</string>
+    <string name="spot_tempat">Spot Tempat</string>
+
+    <string-array name="spot_name">
+        <item>Blok M Square</item>
+        <item>Gedung MPR DPR</item>
+        <item>Rumah Pohon Curug Ciherang</item>
+        <item>Danau Quarry Jayamix</item>
+        <item>Arumdalu Farm</item>
+        <item>Kampung Bekelir</item>
+        <item>OMG ROOMS</item>
+        <item>Jembatan Cinta</item>
+        <item>Dago Dream Park</item>
+        <item>Rabbit Town</item>
+
+    </string-array>
+
+    <string-array name="spot_description">
+        <item>Terkejut? Mendatangi Blok M Square memang bawaannya selalu ingin terburu mengejar bis.
+Tanpa kita sadari, ternyata pusat perbelanjaan di kawasan Selatan ini ternyata memiliki sudut foto yang sungguh instagrammable.
+Fasad arsitektur penuh warnanya dijamin turut menambah kekayaan warna konten Instagram.</item>
+
+        <item>Mari ciptakan tren baru. Daripada mengunjungi gedung MPR DPR hanya untuk berdemo dan menambah kemacetan Jakarta. Lebih baik kali ini tujuannya berfoto cantik.
+Pose menjatuhkan diri seperti unggahan barusan juga cukup unik untuk ditiru.
+
+Seringkali keriuhan masyarakat berdemo di lokasi ini membuat kita lupa akan kemegahan arsitekturnya.</item>
+        <item>keren. Bahkan, bisa dibilang rumah pohon inilah yang berjasa mengangkat popularitas Curug Ciherang.
+Sebelumnya, Curug Ciherang memang tidak terlalu banyak didatangi karena lokasinya yang agak tersembunyi di Sukamakmur, Jonggol, Bogor.
+Namun, gara-gara foto-foto rumah pohon ini tersebar luas di media sosial, banyak yang penasaran ingin mendatangi lokasinya demi berburu selfie.
+Jelas saja spot foto di Bogor ini terkenal. Wong pemandangannya memang sangat indah. Dilatari pohon besar dan jurang yang dipenuhi pepohonan, gambar yang dihasilkan di sini jadi sangat cantik.</item>
+
+        <item>
+            Spot foto di Bogor memang unik-unik sekaligus keren. Kali ini, ada Danau Quarry Jayamix yang popular sebagai tempat hunting bagi anak-anak muda.
+            Uniknya dimana? Dulu, danau ini merupakan tempat penambangan batu. Tapi karena getaran yang dihasilkan saat produksi terlalu tinggi dan mengganggu warga sekitar, penambangan dihentikan.
+            Nah, cerukan bekas penambangan ini kemudian terisi oleh air hujan dan membentuk danau. Siapa sangka, warna air hasil tampungannya sangat cantik, yakni hijau kebiruan.
+            Lokasinya yang berada di puncak bukit dan dikelilingi tebing semakin menambah kefotogenikan Quarry. Tak heran kalau banyak anak muda yang datang ke spot foto di Bogor yang keren ini.
+            Tapi, cukup selfie dan menikmati pemandangan aja ya.Kamu dilarang menaiki tebing karena rawan longsor. Dilarang juga berenang di danau karena sangat dalam dan minim pengawasan.
+        </item>
+
+
+        <item>
+            Jika Anda mencari gempat wisata yang cerah dan berbunga, tempat ini lah jawabannya. Tempat yang masih berada dalam wilayah Scientia Square Park, taman ini menghadirkan konsep Farm to Table Cafe. Maksudnya adalah di dalam taman ini terdapat pula cafe yang dapat Anda kunjungi. Jadi, tidak hanya menikmati keindahan bunga matahari dan berfoto, Anda juga dapat menikmati santapan bersama orang tersayang.
+        </item>
+
+        <item>Kampung Bekelir merupakan salah satu destinasi wisata yang bisa dikunjungi di Kota Tangerang. Letaknya sendiri ada di Kelurahan Babakan. Kampung tersebut merupakan kampung yang telah bertransformasi menjadi kampung warna-warni dan tertata rapi. Ini juga yang membuat daya untuk wisatawan lokal maupun wisatawan mancanegara. Beberapa waktu lalu KompasTravel berkunjung ke kampung tersebut bersama dengan Crowde dan Kultara untuk melakukan beberapa aktivitas</item>
+
+        <item>Area depan OMG Rooms yang berlokasi di lantai 1 Summarecon Mall Bekasi dibuat dengan konsep pop art yang disertai dekorasi mural pada setiap dindingnya. Setelah melewati pintu masuk, pengunjung memasuki ruang pertama dengan konsep Supermarket. Terdapat 2 ruang yang bisa Anda kunjungi. Pertama, pengunjung dapat berfoto dan bergaya dengan troli warna-warni layaknya di supermarket dan yang kedua, pengunjung dapat berfoto didepan kantong dan struk belanja yang berukuran besar.</item>
+
+        <item>Jika saja lebih dirawat, Situ Rawa Abidin bisa menjadi destinasi wisata di Bekasi yang ngehits. Bagaimana tidak, dari lokasi ini kamu bisa menikmati kemegahan Gunung Gede dan Pangrango.
+            Situ yang luasnya sekitar 17 hektar dan memiliki ketinggian 400 meter dari permukaan air laut ini juga menghadirkan pemandangan yang eksotik. Nuansa pepohonan hijau berpadu padan dengan air dari danau buatan membawa atmosfer yang asyik untuk dinikmati.
+            Lokasi: Kampung Bedeng, Desa Karang Mulya, Kecamatan Bojongmangu, Kabupaten Bekasi.Harga tiket: Gratis</item>
+
+        <item>Berlokasi di Jalan Dago Giri, Bandung, tempat yang menyajikan berbagai wahana foto yang cocok banget untuk kamu-kamu yang ingin eksis di Instagram nih. Pernah lihat kan foto karpet terbang yang hits banget itu, nah itu ada di Dago Dream Park lho. Tak hanya itu aja, banyak lagi wahana-wahana lainnya untuk kamu pencinta foto. Pemandangan pohon-pohon yang terdapat di perbukitan juga menambah keindahan di tempat tersebut.</item>
+        <item>Sebuah tempat wisata baru di Bandung bernama Rabbit Town, sedang ramai diperbincangkan. Alasannya, beberapa spot unik yang ada di tempat ini memiliki kemiripan dengan karya seniman dunia ternama, seperti Yayoi Kusama, Chris Burden, dan Museum of Ice Cream di Los Angeles.</item>
+
+    </string-array>
+
+    <string-array name="spot_place">
+        <item>Jakarta</item>
+        <item>Jakarta</item>
+        <item>Bogor</item>
+        <item>Bogor</item>
+        <item>Tangerang</item>
+        <item>Tangerang</item>
+        <item>Bekasi</item>
+        <item>Bekasi</item>
+        <item>Bandung</item>
+        <item>Bandung</item>
+
+
+    </string-array>
+
+
+</resources>
